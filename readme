@@ -1,4 +1,4 @@
- curl -SLsf https://dl.get-arkade.dev/ | sudo sh
+$ curl -SLsf https://dl.get-arkade.dev/ | sudo sh
 aarch64
 Downloading package https://github.com/alexellis/arkade/releases/download/0.8.62/arkade-arm64 as /tmp/arkade-arm64
 Download complete.
